@@ -1,3 +1,8 @@
+#Time complecity of getting number in stack is in constant. O(1)
+#Solution : To keep record of all minium
+
+
+
 class MinStack(object):
 
     def __init__(self):
